@@ -85,11 +85,11 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.caitys_changes.emeraldtools_sword": "Emeral Sword",
-      "item.caitys_changes.emeraldtools_pickaxe": "Emerald Pickaxe",
-      "item.caitys_changes.emeraldtools_shovel": "Emerald Shovel",
-      "item.caitys_changes.emeraldtools_axe": "Emerald Axe",
-      "item.caitys_changes.emeraldtools_hoe": "Emerald Hoe"
+      "Emerald Shovel": "Emerald Shovel",
+      "Emerald Sword": "Emeral Sword",
+      "Emerald Axe": "Emerald Axe",
+      "Emerald Hoe": "Emerald Hoe",
+      "Emerald Pickaxe": "Emerald Pickaxe"
     }
   },
   "foldersRoot": {
