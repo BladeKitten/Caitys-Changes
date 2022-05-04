@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "temperedemeraldplaceholder",
+    "texture": "reinforcedemeraldingot",
     "customModelName": "Normal",
-    "name": "Tempered Emerald",
+    "name": "Reinforced Emerald Ingot",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:CaitysChanges"

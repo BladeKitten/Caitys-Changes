@@ -10,16 +10,16 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Items.EMERALD"
+        "value": "CUSTOM:ReinforcedEmeraldIngot"
       },
       {
-        "value": "Items.EMERALD"
+        "value": "CUSTOM:ReinforcedEmeraldIngot"
       },
       {
         "value": ""
       },
       {
-        "value": "Items.EMERALD"
+        "value": "CUSTOM:ReinforcedEmeraldIngot"
       },
       {
         "value": "Items.STICK"

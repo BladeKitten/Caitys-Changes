@@ -7,10 +7,10 @@
   ],
   "key": {
     "0": {
-      "item": "minecraft:emerald"
+      "item": "caitys_changes:reinforced_emerald_ingot"
     },
     "1": {
-      "item": "minecraft:emerald"
+      "item": "caitys_changes:reinforced_emerald_ingot"
     },
     "3": {
       "item": "minecraft:stick"
@@ -20,7 +20,7 @@
     }
   },
   "result": {
-    "item": "caitys_changes:emerald_hoe",
+    "item": "caitys_changes:emeraldiotools_hoe",
     "count": 1
   }
 }

@@ -95,22 +95,87 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "tempered_emeraldcraft"
+    },
+    {
+      "name": "ReinforcedEmeraldIngot",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_emerald_ingot"
+    },
+    {
+      "name": "HardenedEmerald",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hardened_emerald"
+    },
+    {
+      "name": "CaitysChanges",
+      "type": "tab",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "caitys_changes"
+    },
+    {
+      "name": "Celestial",
+      "type": "musicdisc",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "celestial"
+    },
+    {
+      "name": "Doom",
+      "type": "musicdisc",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "celestial",
+      "files": [
+        "rocket_energy_-_celestial"
+      ],
+      "category": "music",
+      "subtitle": "Rise"
+    },
+    {
+      "name": "doom",
+      "files": [
+        "doom"
+      ],
+      "category": "music",
+      "subtitle": "Burn"
+    }
+  ],
   "language_map": {
     "en_us": {
       "Emerald Shovel": "Emerald Shovel",
+      "item.caitys_changes.doom": "Doom",
       "Emerald Sword": "Emeral Sword",
       "item.caitys_changes.emeraldiotools_pickaxe": "Emerald Pickaxe",
+      "Emerald Hoe": "Emerald Hoe",
+      "itemGroup.tabcaitys_changes": "Caitys Changes",
+      "item.caitys_changes.doom.desc": "Doom",
+      "item.caitys_changes.emeraldiotools_shovel": "Emerald Shovel",
+      "item.caitys_changes.reinforced_emerald_ingot": "Reinforced Emerald Ingot",
+      "item.caitys_changes.emeraldiotools_hoe": "Emerald Hoe",
+      "subtitles.doom": "Burn",
+      "item.caitys_changes.celestial.desc": "Celestial ",
       "item.caitys_changes.tempered_emerald": "Tempered Emerald",
       "Emerald Axe": "Emerald Axe",
-      "Emerald Hoe": "Emerald Hoe",
-      "item.caitys_changes.emeraldiotools_shovel": "Emerald Shovel",
+      "item.caitys_changes.celestial": "Celestial",
+      "subtitles.celestial": "Rise",
       "Emerald Pickaxe": "Emerald Pickaxe",
       "item.caitys_changes.emeraldiotools_axe": "Emerald Axe",
-      "item.caitys_changes.emeraldiotools_hoe": "Emerald Hoe",
       "item.caitys_changes.emeraldiotools_sword": "Emerald Sword"
     }
   },

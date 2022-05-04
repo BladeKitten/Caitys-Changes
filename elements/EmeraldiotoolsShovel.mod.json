@@ -8,7 +8,7 @@
     "name": "Emerald Shovel",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:CaitysChanges"
     },
     "toolType": "Spade",
     "harvestLevel": 6,
@@ -21,7 +21,7 @@
     "hasGlow": false,
     "repairItems": [
       {
-        "value": "Items.EMERALD"
+        "value": "CUSTOM:ReinforcedEmeraldIngot"
       }
     ],
     "immuneToFire": false,

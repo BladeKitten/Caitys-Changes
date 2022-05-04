@@ -1,0 +1,22 @@
+{
+  "celestial": {
+    "category": "music",
+    "subtitle": "subtitles.celestial",
+    "sounds": [
+      {
+        "name": "caitys_changes:rocket_energy_-_celestial",
+        "stream": true
+      }
+    ]
+  },
+  "doom": {
+    "category": "music",
+    "subtitle": "subtitles.doom",
+    "sounds": [
+      {
+        "name": "caitys_changes:doom",
+        "stream": true
+      }
+    ]
+  }
+}

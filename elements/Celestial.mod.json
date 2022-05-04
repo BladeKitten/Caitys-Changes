@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "celestialdisc",
+    "name": "Celestial",
+    "description": "Celestial ",
+    "creativeTab": {
+      "value": "CUSTOM:CaitysChanges"
+    },
+    "music": {
+      "value": "CUSTOM:celestial"
+    },
+    "specialInfo": [
+      "by Rocket Energy"
+    ],
+    "hasGlow": true
+  }
+}

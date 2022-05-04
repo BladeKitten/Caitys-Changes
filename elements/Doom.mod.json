@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "doomdisc",
+    "name": "Doom",
+    "description": "Doom",
+    "creativeTab": {
+      "value": "CUSTOM:CaitysChanges"
+    },
+    "music": {
+      "value": "CUSTOM:doom"
+    },
+    "specialInfo": [
+      "by Sxarlett"
+    ],
+    "hasGlow": false
+  }
+}

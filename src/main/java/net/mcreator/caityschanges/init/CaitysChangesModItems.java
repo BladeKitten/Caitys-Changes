@@ -11,11 +11,14 @@ import net.minecraftforge.event.RegistryEvent;
 import net.minecraft.world.item.Item;
 
 import net.mcreator.caityschanges.item.TemperedEmeraldItem;
+import net.mcreator.caityschanges.item.ReinforcedEmeraldIngotItem;
 import net.mcreator.caityschanges.item.EmeraldiotoolsSwordItem;
 import net.mcreator.caityschanges.item.EmeraldiotoolsShovelItem;
 import net.mcreator.caityschanges.item.EmeraldiotoolsPickaxeItem;
 import net.mcreator.caityschanges.item.EmeraldiotoolsHoeItem;
 import net.mcreator.caityschanges.item.EmeraldiotoolsAxeItem;
+import net.mcreator.caityschanges.item.DoomItem;
+import net.mcreator.caityschanges.item.CelestialItem;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -29,6 +32,9 @@ public class CaitysChangesModItems {
 	public static final Item EMERALDIOTOOLS_SHOVEL = register(new EmeraldiotoolsShovelItem());
 	public static final Item EMERALDIOTOOLS_HOE = register(new EmeraldiotoolsHoeItem());
 	public static final Item TEMPERED_EMERALD = register(new TemperedEmeraldItem());
+	public static final Item REINFORCED_EMERALD_INGOT = register(new ReinforcedEmeraldIngotItem());
+	public static final Item CELESTIAL = register(new CelestialItem());
+	public static final Item DOOM = register(new DoomItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

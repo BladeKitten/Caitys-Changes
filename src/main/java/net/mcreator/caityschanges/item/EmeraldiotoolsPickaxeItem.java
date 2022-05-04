@@ -4,10 +4,11 @@ package net.mcreator.caityschanges.item;
 import net.minecraft.world.item.crafting.Ingredient;
 import net.minecraft.world.item.Tier;
 import net.minecraft.world.item.PickaxeItem;
-import net.minecraft.world.item.Items;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.item.CreativeModeTab;
+
+import net.mcreator.caityschanges.init.CaitysChangesModTabs;
+import net.mcreator.caityschanges.init.CaitysChangesModItems;
 
 public class EmeraldiotoolsPickaxeItem extends PickaxeItem {
 	public EmeraldiotoolsPickaxeItem() {
@@ -33,9 +34,9 @@ public class EmeraldiotoolsPickaxeItem extends PickaxeItem {
 			}
 
 			public Ingredient getRepairIngredient() {
-				return Ingredient.of(new ItemStack(Items.EMERALD));
+				return Ingredient.of(new ItemStack(CaitysChangesModItems.REINFORCED_EMERALD_INGOT));
 			}
-		}, 1, -3f, new Item.Properties().tab(CreativeModeTab.TAB_TOOLS));
+		}, 1, -3f, new Item.Properties().tab(CaitysChangesModTabs.TAB_CAITYS_CHANGES));
 		setRegistryName("emeraldiotools_pickaxe");
 	}
 }

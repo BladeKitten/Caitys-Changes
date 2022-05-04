@@ -7,7 +7,7 @@
   ],
   "key": {
     "0": {
-      "item": "minecraft:emerald"
+      "item": "caitys_changes:reinforced_emerald_ingot"
     },
     "1": {
       "item": "minecraft:stick"
@@ -17,7 +17,7 @@
     }
   },
   "result": {
-    "item": "caitys_changes:emerald_shovel",
+    "item": "caitys_changes:emeraldiotools_shovel",
     "count": 1
   }
 }
