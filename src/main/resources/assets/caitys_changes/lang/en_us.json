@@ -1,7 +1,12 @@
 {
   "Emerald Shovel": "Emerald Shovel",
   "Emerald Sword": "Emeral Sword",
+  "item.caitys_changes.emeraldiotools_pickaxe": "Emerald Pickaxe",
   "Emerald Axe": "Emerald Axe",
   "Emerald Hoe": "Emerald Hoe",
-  "Emerald Pickaxe": "Emerald Pickaxe"
+  "item.caitys_changes.emeraldiotools_shovel": "Emerald Shovel",
+  "Emerald Pickaxe": "Emerald Pickaxe",
+  "item.caitys_changes.emeraldiotools_axe": "Emerald Axe",
+  "item.caitys_changes.emeraldiotools_hoe": "Emerald Hoe",
+  "item.caitys_changes.emeraldiotools_sword": "Emerald Sword"
 }

@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "emeraldiotools_axe",
     "customModelName": "Normal",
-    "name": "Emeraldiotools Axe",
+    "name": "Emerald Axe",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
@@ -15,7 +15,7 @@
     "efficiency": 12.0,
     "attackSpeed": 1.0,
     "enchantability": 42,
-    "damageVsEntity": 6.0,
+    "damageVsEntity": 27.0,
     "usageCount": 1164,
     "blocksAffected": [],
     "hasGlow": false,

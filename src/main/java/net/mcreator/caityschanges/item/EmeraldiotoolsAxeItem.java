@@ -21,7 +21,7 @@ public class EmeraldiotoolsAxeItem extends AxeItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 4f;
+				return 25f;
 			}
 
 			public int getLevel() {
