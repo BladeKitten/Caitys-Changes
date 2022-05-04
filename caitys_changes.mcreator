@@ -79,6 +79,22 @@
       "compiles": true,
       "locked_code": true,
       "registry_name": "emeraldiotools_hoe_recipe"
+    },
+    {
+      "name": "TemperedEmerald",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tempered_emerald"
+    },
+    {
+      "name": "TemperedEmeraldcraft",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tempered_emeraldcraft"
     }
   ],
   "variable_elements": [],
@@ -88,6 +104,7 @@
       "Emerald Shovel": "Emerald Shovel",
       "Emerald Sword": "Emeral Sword",
       "item.caitys_changes.emeraldiotools_pickaxe": "Emerald Pickaxe",
+      "item.caitys_changes.tempered_emerald": "Tempered Emerald",
       "Emerald Axe": "Emerald Axe",
       "Emerald Hoe": "Emerald Hoe",
       "item.caitys_changes.emeraldiotools_shovel": "Emerald Shovel",
