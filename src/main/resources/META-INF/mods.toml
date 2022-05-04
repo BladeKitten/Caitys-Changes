@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="caitys_changes"
+version="1.0.0"
+displayName="Caitys Changes"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="BladeKitten"
+description='''
+Stuff and things
+'''
+
+[[dependencies.caitys_changes]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

@@ -1,0 +1,117 @@
+{
+  "mod_elements": [
+    {
+      "name": "EmeraldiotoolsPickaxe",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeraldiotools_pickaxe"
+    },
+    {
+      "name": "EmeraldiotoolsAxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeraldiotools_axe"
+    },
+    {
+      "name": "EmeraldiotoolsSword",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeraldiotools_sword"
+    },
+    {
+      "name": "EmeraldiotoolsShovel",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeraldiotools_shovel"
+    },
+    {
+      "name": "EmeraldiotoolsHoe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeraldiotools_hoe"
+    },
+    {
+      "name": "EmeraldiotoolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "emeraldiotools_pickaxe_recipe"
+    },
+    {
+      "name": "EmeraldiotoolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "emeraldiotools_axe_recipe"
+    },
+    {
+      "name": "EmeraldiotoolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "emeraldiotools_sword_recipe"
+    },
+    {
+      "name": "EmeraldiotoolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "emeraldiotools_shovel_recipe"
+    },
+    {
+      "name": "EmeraldiotoolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "emeraldiotools_hoe_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.caitys_changes.emeraldtools_sword": "Emeral Sword",
+      "item.caitys_changes.emeraldtools_pickaxe": "Emerald Pickaxe",
+      "item.caitys_changes.emeraldtools_shovel": "Emerald Shovel",
+      "item.caitys_changes.emeraldtools_axe": "Emerald Axe",
+      "item.caitys_changes.emeraldtools_hoe": "Emerald Hoe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "caitys_changes",
+    "modName": "Caitys Changes",
+    "version": "1.0.0",
+    "description": "Stuff and things",
+    "author": "BladeKitten",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "net.mcreator.caityschanges",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

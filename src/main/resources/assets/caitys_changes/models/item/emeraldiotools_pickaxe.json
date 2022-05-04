@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "caitys_changes:items/emeraldiotools_pickaxe"
+  }
+}
