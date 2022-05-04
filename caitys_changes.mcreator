@@ -3,7 +3,7 @@
     {
       "name": "EmeraldiotoolsPickaxe",
       "type": "tool",
-      "sortid": 1,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "emeraldiotools_pickaxe"
@@ -11,7 +11,7 @@
     {
       "name": "EmeraldiotoolsAxe",
       "type": "tool",
-      "sortid": 2,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "registry_name": "emeraldiotools_axe"
@@ -19,7 +19,7 @@
     {
       "name": "EmeraldiotoolsSword",
       "type": "tool",
-      "sortid": 3,
+      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "registry_name": "emeraldiotools_sword"
@@ -43,47 +43,47 @@
     {
       "name": "EmeraldiotoolsPickaxeRecipe",
       "type": "recipe",
-      "sortid": 6,
+      "sortid": 10,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "registry_name": "emeraldiotools_pickaxe_recipe"
     },
     {
       "name": "EmeraldiotoolsAxeRecipe",
       "type": "recipe",
-      "sortid": 7,
+      "sortid": 11,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "registry_name": "emeraldiotools_axe_recipe"
     },
     {
       "name": "EmeraldiotoolsSwordRecipe",
       "type": "recipe",
-      "sortid": 8,
+      "sortid": 12,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "registry_name": "emeraldiotools_sword_recipe"
     },
     {
       "name": "EmeraldiotoolsShovelRecipe",
       "type": "recipe",
-      "sortid": 9,
+      "sortid": 13,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "registry_name": "emeraldiotools_shovel_recipe"
     },
     {
       "name": "EmeraldiotoolsHoeRecipe",
       "type": "recipe",
-      "sortid": 10,
+      "sortid": 14,
       "compiles": true,
-      "locked_code": true,
+      "locked_code": false,
       "registry_name": "emeraldiotools_hoe_recipe"
     },
     {
       "name": "TemperedEmerald",
       "type": "item",
-      "sortid": 11,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tempered_emerald"
@@ -91,7 +91,7 @@
     {
       "name": "TemperedEmeraldcraft",
       "type": "recipe",
-      "sortid": 12,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "registry_name": "tempered_emeraldcraft"
@@ -99,7 +99,7 @@
     {
       "name": "ReinforcedEmeraldIngot",
       "type": "item",
-      "sortid": 13,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "registry_name": "reinforced_emerald_ingot"
@@ -107,7 +107,7 @@
     {
       "name": "HardenedEmerald",
       "type": "recipe",
-      "sortid": 13,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hardened_emerald"
@@ -115,7 +115,7 @@
     {
       "name": "CaitysChanges",
       "type": "tab",
-      "sortid": 14,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "registry_name": "caitys_changes"
@@ -123,7 +123,7 @@
     {
       "name": "Celestial",
       "type": "musicdisc",
-      "sortid": 14,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "celestial"
@@ -131,7 +131,7 @@
     {
       "name": "Doom",
       "type": "musicdisc",
-      "sortid": 15,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "registry_name": "doom"
