@@ -135,6 +135,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "doom"
+    },
+    {
+      "name": "Doomdisc",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doomdisc"
+    },
+    {
+      "name": "Celestialdisc",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "celestialdisc"
     }
   ],
   "variable_elements": [],

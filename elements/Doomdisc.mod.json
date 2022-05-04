@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TemperedEmerald"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TemperedEmerald"
+      },
+      {
+        "value": "Items.RECORD_CHIRP"
+      },
+      {
+        "value": "CUSTOM:TemperedEmerald"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TemperedEmerald"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Doom"
+    },
+    "name": "doom_disc",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "caitys_changes:tempered_emerald"
+    },
+    "3": {
+      "item": "caitys_changes:tempered_emerald"
+    },
+    "4": {
+      "item": "minecraft:music_disc_chirp"
+    },
+    "5": {
+      "item": "caitys_changes:tempered_emerald"
+    },
+    "7": {
+      "item": "caitys_changes:tempered_emerald"
+    }
+  },
+  "result": {
+    "item": "caitys_changes:doom",
+    "count": 1
+  }
+}
